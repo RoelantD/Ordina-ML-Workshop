@@ -21,4 +21,4 @@ Onderstaand een video van dit proces:<br>
 <a target="_blank" href="https://onedrive.live.com/embed?cid=0574F448DBDBF4E7&resid=574F448DBDBF4E7%21121969&authkey=AOP8UKAoMVGTvqU"><img width="350" src="https://2wqewg.db.files.1drv.com/y4m4JA9xOyvRfxQaMSFflzsAJGoaGgjcbmjlcEsIHhHnoSMyBPBHWM6bfE-V7_nGCzE66l2r1ok7d5b_HznBrtMvdAEHfNQKGM7TU6i3aTdAAOX3t8-5_1kc3C6txp9x6Xl4JEtSStbQaYe1hX9KthT66N7Fb9lCn0Qlg0OghfzIDdDavFv4PuOfr2ZFSsgQuU1vkQ0sGNW59ggSNxvZCxcoQ?width=1920&height=1048&cropmode=none"></img></a>
 
 ## Niet vergeten
-Als je klaar bent met de workshop...letterlijk en figuurlijk. Vergeet dan niet de resource groep weg te gooien in de Azure portal. Het zijn geen goede resources om te laten draaien.
+Als je klaar bent met de workshop...letterlijk en figuurlijk. Vergeet dan niet de resource groep weg te gooien in de Azure portal. Het zijn dure resources om te laten draaien.
